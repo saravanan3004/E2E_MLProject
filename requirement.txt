@@ -1,5 +1,8 @@
 pandas
 numpy
 seaborn
-datatime
--e .
+matplotlib
+Catboost
+sklearn
+train_test_split
+#-e .
