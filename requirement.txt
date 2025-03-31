@@ -4,5 +4,4 @@ seaborn
 matplotlib
 Catboost
 sklearn
-train_test_split
-#-e .
+# -e .
